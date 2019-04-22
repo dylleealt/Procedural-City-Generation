@@ -2,7 +2,7 @@
 How to use the program, run qtCreator and open the lab5.pro file. Run using
 qtCreators release mode.
 
-### 3 New Features
+## 3 New Features
 Fractal Terrain, L-systems Plants, Procedural City Generation
 
 ### Design Choices
@@ -13,8 +13,8 @@ The contribution of l-systems plants was mainly done by Giuse, gnguyen4. Chose t
 The Fractal Terrain was mainly completed by dtian2. Chose use a form of noise function to distort a plane, creating hills in the park. There is also grass which
 is created using Voronoi noise.
 
-Old Feature: GPU Raymarching - Used the shadertoy code from lab 10.
+## Old Feature: GPU Raymarching - Used the shadertoy code from lab 10.
 
-Known Issues/Bugs:
+## Known Issues/Bugs:
 
 Low FPS at higher resolutions.
